@@ -1,0 +1,43 @@
+#topo{
+    background-color: green;
+}
+.tamS{
+    height: 50px;
+}
+.tamP{
+    height: 100px;
+}
+.tamM{
+    height: 200px;
+}
+.tamM2{
+    height: 250px;
+}
+.tamQ{
+    height: 200px;
+    width: 200px;
+}
+.tamL{
+    height: 400px;
+}
+.tamG{
+    height:475px;
+}
+#cro1{
+    background-color: lawngreen;
+}
+#cro2{
+    background-color: greenyellow;
+}
+#cro3{
+    background-color: chartreuse;
+}
+#cro4{
+    background-color: forestgreen;
+}
+#cro5{
+    background-color: darkgreen;
+}
+#cro6{
+    background-color: forestgreen;
+}
