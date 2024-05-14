@@ -1,0 +1,45 @@
+body{
+    #topo{
+    height: 200px;
+    width: 1300px;
+    background-color: blue;
+    padding: 1px;
+    }
+    #logo{
+        height: 149px;
+        width: 300px;
+        background-color: white;
+        margin: 30px;
+    }
+    #menu{
+    height: 65px;
+    width: 1300px;
+    background-color: green;
+    }
+    #banner{
+    height: 368px;
+    width: 1300px;
+    background-color: orange;
+    }
+    #conteudo{
+    height: 450px;
+    width: 1300px;
+    background-color: lightblue;
+    }
+    #rodape{
+        height: 80px;
+        width: 1300px;
+        background-color: red;
+    }
+    #itemCont{
+        height: 400px;
+        width:  400px;
+        background-color: white;
+        margin-left: 25px;
+        margin-top: 25px;
+        float: left;
+    }
+}
+.centro{
+    margin: auto
+}
