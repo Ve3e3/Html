@@ -1,0 +1,173 @@
+body{
+    background-color: rgb(196, 194, 194);
+    font-family: Arial;
+    font-size: large;
+}
+.texto{
+    text-align: center;
+    text-align: justify;
+    margin: 2px;
+}
+.lala{
+    height: 110px;
+    width: 100px;
+    color: rgb(215, 199, 199);
+    background-color: rgb(233, 46, 46);
+    margin-top: 10px;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 100px;
+}
+h2{
+    color: black;
+    margin-top: 10px;
+    text-align: center;
+    text-align: justify;
+}
+h3{
+    color: rgb(255, 255, 255);
+    margin-top: 10px;
+}
+h4{
+    color: rgb(7, 0, 0);
+    margin-top: 10px;
+    font-size: larger;
+}
+.fundinho{
+    background-color: lightyellow;
+    color: black;
+    border-style: solid;
+}
+.marginL{
+    margin-left: 10px;
+}
+#home{
+    height: 170px;
+}
+#centro1{ 
+    height: 100%;
+    width: 80%;
+}
+.centro{
+    text-align: center;
+}
+#model{
+    top: 10px;
+    left: 5px;
+}
+.logo{
+    height: 110px;
+    width: 100px;
+    color: black;
+    background-color: red;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 100px;
+}
+
+#inicio{
+    height: 650px;
+    /* background-color: rgb(181, 9, 9); */
+    border: 60px;
+}
+.contI{
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+.contT{
+    /* background-color: beige; */
+    height: 175px;
+    width: 950px;
+    float: left;
+}
+.contI2{
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+.contT2{
+    /* background-color: beige; */
+    height: 200px;
+    width: 950px;
+    float: left;
+}
+#meio{
+    height: 350px;
+    background-color: chocolate;
+}
+#professores{
+    height: 500px;
+    width: 250px;
+    /* background-color: rgb(0, 0, 0); */
+}
+.contM{
+    height: 150px;
+    width: 150px;
+    background-color: aquamarine;
+}
+.locais{
+    background-color: rgb(246, 246, 232);
+    height: 275px;
+    width: 1000px;
+}
+.sites{
+    /* background-color: yellow; */
+    height: 275px;
+    width: 275px;
+}
+.sites{
+    /* background-color: yellow; */
+    height: 275px;
+    width: 275px;
+}
+.cor{
+    background-color: rgb(154, 23, 23);
+}
+.cor3{
+    /* background-color: rgb(100, 7, 7); */
+    margin-top: 60px;
+    height: 70px;
+}
+#al{
+    width: 100%;
+    height: 100%;
+}
+#borda{
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    background-color: rgb(232, 227, 227);
+
+   
+}
+.borda{
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-radius: 50px
+
+   
+}
+.QMinvisivel{
+    height: 75px;
+    width: 225px;
+}
+.QM{
+    height:75px;
+    width: 250px;
+    background-color: red;
+    color: black;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+.corF{
+    background-color: red;
+    color: black;
+    border-width: 5px;
+    border-style: solid;
+}
+
+
+
