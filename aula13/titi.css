@@ -1,0 +1,50 @@
+body{
+    font-family: arial;
+}
+.drados{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    text-align: center;
+    line-height: 200px;
+    font-size: larger;
+   position: absolute;
+   z-index: 1;
+   border-radius: 100px
+}
+#drados1{
+   top: 50px;
+   left: 50px;
+}
+#drados2{
+    top: 50px;
+    right: 50px;
+}
+#drados3{
+    bottom: 50px;
+    left: 50px;
+}
+#drados4{
+    bottom: 50px;
+    right: 50px;
+}
+#drados5{
+    top: 50%;
+    left: 50%;
+    margin-left: -100px;
+    margin-top: -100px;
+}
+
+#trangus{
+    height: 2000px;
+    width: 1000px;
+    background-color: rgb(147, 0, 0);
+    position: relative;
+    margin: auto;
+}
+#bolalas{
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+}

@@ -1,0 +1,111 @@
+#topo{
+    background-color: black;
+}
+.tamanhop{
+    height: 40px;
+}
+.tamanho{
+    height: 70px;
+}
+.tamanhoM{
+    height: 200px;
+}
+.tamanhoG{
+    height: 400px;
+}
+.tamanhoLX{
+    height: 300px;
+}
+#udo1{
+    background-color: pink;
+}
+#udo2{
+    background-color: purple;
+}
+#udo3{
+    background-color: red;
+}
+#udo4{
+    background-color: lightcoral;
+}
+#udo5{
+    background-color: darkred;
+}
+#udo6{
+    background-color: yellow;
+}
+#udo7{
+    background-color: gold;
+}
+#udo8{
+    background-color: goldenrod;
+}
+#udo9{
+    background-color: darkgoldenrod;
+}
+#udo10{
+    background-color:greenyellow;
+}
+#udo11{
+    background-color:lightgreen ;
+}
+#udo12{
+    background-color:green ;
+}
+#udo13{
+    background-color:darkolivegreen ;
+}
+#udo14{
+    background-color:darkgreen ;
+}
+#udo15{
+    background-color:darkslategrey ;
+}
+#udo16{
+    background-color:teal ;
+}
+#udo17{
+    background-color:darkcyan ;
+}
+#udo18{
+    background-color:darkblue ;
+}
+#udo19{
+    background-color:mediumblue ;
+}
+#udo20{
+    background-color:blue ;
+}
+#udo21{
+    background-color:dodgerblue ;
+}
+#udo22{
+    background-color:deepskyblue ;
+}
+#udo23{
+    background-color:cyan ;
+}
+#udo24{
+    background-color: aqua;
+}
+#udo25{
+    background-color:aquamarine ;
+}
+#udo26{
+    background-color:lightblue ;
+}
+#udo27{
+    background-color:lightskyblue ;
+}
+.corh1{
+    color: white;
+}
+.cor1{
+   background-color: aqua;
+}
+.cor2{
+    background-color: aqua;
+}
+.cor3{
+    background-color: aqua;
+}
