@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: green;
+    color: black;
+}
+
+.quadrado{
+    list-style-type: square;
+}
+
+.romano{
+    list-style-type: lower-roman;
+}
+
+.Geo{
+    list-style-type: georgian;
+}
