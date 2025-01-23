@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <title>Aventura da Desireé <datagrid></datagrid></title>
+    <link rel="stylesheet" href="pag.css">
+</head>
+<body>
+    <main>
+        <div class="passo ativo" id="passo-20">
+            <img src="img/EscolaValdivino.jpg" alt="">
+            <p>
+                Esse momento foi preparado para uma pessoa muito especial, com muito carinho, e SÓ VOCÊ pode concluir esse desafio!!!
+            </p>
+            <button class="btn-proximo" data-proximo="0">Começar</button>
+        </div>
+        <div class="passo" id="passo-0">
+            <img src="img/EscolaValdivino.jpg" alt="">
+            <p>Você é uma professora recém formada em matemática, em busca de uma vaga perto de casa. 
+                <br>Você recebe um email informando a abertura de vagas na escola “Valdivino de Castro Pereira”, você…
+            </p>
+            <button class="btn-proximo" data-proximo="1">Recusa</button>
+            <button class="btn-proximo" data-proximo="2">Aceita</button>
+        </div>
+        <div class="passo" id="passo-1">
+            <p>Você priva uma série de pessoas de te conhecer. Deseja tentar novamente? 
+            </p>
+            <button class="btn-proximo" data-proximo="0">Sim-Sim</button>
+        </div>
+        <div class="passo" id="passo-2">
+            <p><img src="img/1PrimeiroC_Acolhida.jpg" alt=""></p>
+            <p>Tudo ainda é muito novo pra você. Você conhece algumas pessoas, entra em algumas turmas, faz alguns amigos. 
+                <br>E na segunda semana você está de frente à porta do 1° C, você… </p>
+            <button class="btn-proximo" data-proximo="5">Dá meia volta</button>
+            <button class="btn-proximo" data-proximo="6">Entra para dar aula</button>
+        </div>
+        <div class="passo" id="passo-5">
+            <p>Você piora em 90% o ano daquela turma, de qualquer forma, você não tem essa opção.
+            </p>
+            <button class="btn-proximo" data-proximo="2">Voltar</button>
+        </div>
+        <div class="passo" id="passo-6">
+            <img src="img/Interrogação.jpg" alt="">
+            <p>Agora você precisa ir até a sala 4 e descobrir como essa escolha foi importante. 
+                <br><b>(Responda isto depois de abrir o que estiver lá)</b>
+            </p>
+            <button class="btn-proximo" data-proximo="7">Eu não fui</button>
+            <button class="btn-proximo" data-proximo="8">Eu vim</button>
+        </div>
+        <div class="passo" id="passo-7">
+            <img src="img/Segredo.jpg" alt="">
+            <p>Pare de fingir que não está curiosa.</p>
+            <button class="btn-proximo" data-proximo="6">Voltar</button>
+        </div>
+        <div class="passo" id="passo-8">
+            <img src="img/1PrimeiroB_UmaSalaParaSeLembrar.jpg" alt="">
+            <p>Viu? E essas não foram as únicas coisas importantes que você fez. 
+                <br>Dias depois você está de frente à porta do 1° B, você… 
+            </p>
+            <button class="btn-proximo" data-proximo="9">Voltar</button>
+            <button class="btn-proximo" data-proximo="10">Entrar</button>
+        </div>
+        <div class="passo" id="passo-9">
+            <p>Esse é o seu trabalho, você não tem essa opção. </p>
+            <button class="btn-proximo" data-proximo="8">Voltar</button>
+        </div>
+        <div class="passo" id="passo-10">
+            <img src="img/Interrogação.jpg" alt="">
+            <p>Agora você precisa ir até a sala 8 e descobrir como isso não foi o fim do mundo. 
+                <br><b>(Responda isto depois de abrir o que estiver lá)</b>
+            </p>
+            <button class="btn-proximo" data-proximo="11">Eu não fui</button>
+            <button class="btn-proximo" data-proximo="12">Eu vim</button>
+        </div>
+        <div class="passo" id="passo-11">
+            <p>NOS AJUDE!</p>
+            <button class="btn-proximo" data-proximo="10">Voltar</button>
+        </div>
+        <div class="passo" id="passo-12">
+            <img src="img/1PrimeiroA_HalloweenA.jpg" alt="">
+            <p>Vê como deixa os ambientes mais leves? 
+                <br>É inevitável! 
+                <br>Os dias seguem e o trabalho continua, você PRECISA entrar na sala do 1° A, mas você ainda tem a opção de voltar, então você… 
+            </p>
+            <button class="btn-proximo" data-proximo="13">Voltar</button>
+            <button class="btn-proximo" data-proximo="14">Entrar</button>
+        </div>
+        <div class="passo" id="passo-13">
+            <p>Na verdade, você não tem essa opção.</p>
+            <button class="btn-proximo" data-proximo="12">Voltar</button>
+        </div>
+        <div class="passo" id="passo-14">
+            <img src="img/Interrogação.jpg" alt="">
+            <p>A sala 3 espera por você com alguma coisa especial em agradecimento. 
+                <br><b>(Responda isto depois de abrir o que estiver lá)</b>
+            </p>
+            <button class="btn-proximo" data-proximo="15">Eu não fui</button>
+            <button class="btn-proximo" data-proximo="16">Eu vim</button>
+            
+        </div>
+        <div class="passo" id="passo-15">
+            <p>Torne as coisas mais fáceis.</p>
+            <button class="btn-proximo" data-proximo="14">Voltei</button>
+        </div>
+        <div class="passo" id="passo-16">
+            <p><img src="img/Sla.png" alt=""></p>
+            <p>Algumas coisas não são assim tão transparentes, mas você foi especial para essas pessoas, cada uma à sua maneira. 
+                <br>No ano seguinte, você tem a opção de ir embora, procurar outra escola melhor e mais fácil. Você vai? 
+            </p>
+            <button class="btn-proximo" data-proximo="17">Vou</button>
+            <button class="btn-proximo" data-proximo="18">Não vou</button>
+        </div>
+        <div class="passo" id="passo-17">
+            <p>Nós todos sabemos que não, você não vai embora.</p>
+            <button class="btn-proximo" data-proximo="16">Voltar</button>
+        </div>
+        <div class="passo" id="passo-18">
+            <img src="img/2SegundoAno_PomboChampionShipe.jpg" alt="">
+            <p>Você ganha um presente, não convencional e barulhento, que você visita pelo menos seis vezes por semana. 
+                <br>Vá até a sala 9 para saber que presente é este. 
+                <br><b>(Responda quando já estiver com ele)</b>
+            </p>
+            <button class="btn-proximo" data-proximo="19">FAZER</button>
+        </div>
+    </main>
+    <script src="pag.js"></script>
+</body>
+</html>
